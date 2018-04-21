@@ -1,0 +1,5 @@
+USAGE: ./bin/zookeeper-server-start.sh [-daemon] zookeeper.properties
+USAGE: ./bin/zookeeper-server-start.sh [-daemon] zookeeper.properties
+USAGE: ./bin/zookeeper-server-start.sh [-daemon] zookeeper.properties
+USAGE: ./bin/zookeeper-server-start.sh [-daemon] zookeeper.properties
+USAGE: ./bin/zookeeper-server-start.sh [-daemon] zookeeper.properties
